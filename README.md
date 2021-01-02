@@ -1,6 +1,6 @@
 # Learning python with five games
 
-This games were created in the youtube cousre available on [Youtube](https://www.youtube.com/watch?v=XGf2GcyHPhc&amp;t=1s)
+This games were created in the freeCodeCamp course available on [Youtube](https://www.youtube.com/watch?v=XGf2GcyHPhc&amp;t=1s)
 
 1. Pong
 2. Snake
